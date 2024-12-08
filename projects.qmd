@@ -4,12 +4,12 @@ toc: false
 
 ## Project 1
 
-Here is my [project 1](Project.pdf)
+Project on [Predicting Movie Score](Project.pdf)
 
 ## Project 2
 
-Here is my [project 2](stats_101b_project.pdf)
+Project on [Methamphetamine and Dark Chocolate Affect on Memory](stats_101b_project.pdf)
 
 ## Project 3
 
-Here is my [project 3](Final_Project.pdf)
+Project on [Predicting NBA Outcome](Final_Project.pdf)
