@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 141bebb7-8cd3-440d-b9b0-33f9e06f6f43
+      url: 'https://visionary-mandazi-4f4bd9.netlify.app'
