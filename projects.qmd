@@ -4,12 +4,12 @@ toc: false
 
 ## Project 1
 
-Here is my [project 1]()
+Here is my [project 1](Project.pdf)
 
 ## Project 2
 
-Here is my [project 2]()
+Here is my [project 2](stats_101b_project.pdf)
 
 ## Project 3
 
-Here is my [project 3]()
+Here is my [project 3](Final_Project.pdf)

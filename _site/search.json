@@ -23,8 +23,29 @@
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "About",
+    "title": "Mary McSweeney",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\n3 + 1\n\n[1] 4\n\n\n\n10 + 10\n\n[1] 20"
+    "text": "Here is my project 1"
+  },
+  {
+    "objectID": "projects.html#project-1",
+    "href": "projects.html#project-1",
+    "title": "Mary McSweeney",
+    "section": "",
+    "text": "Here is my project 1"
+  },
+  {
+    "objectID": "projects.html#project-2",
+    "href": "projects.html#project-2",
+    "title": "Mary McSweeney",
+    "section": "Project 2",
+    "text": "Project 2\nHere is my project 2"
+  },
+  {
+    "objectID": "projects.html#project-3",
+    "href": "projects.html#project-3",
+    "title": "Mary McSweeney",
+    "section": "Project 3",
+    "text": "Project 3\nHere is my project 3"
   }
 ]
