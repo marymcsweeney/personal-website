@@ -1,11 +1,30 @@
 ---
-title: "personal-website"
+title: "Mary McSweeney"
+about:
+  template: trestles
+  image: profile.jpg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/marymcsweeney
+    - icon: linkedin
+      text: LinkedIn
+      url: https://www.linkedin.com/in/mary-mcsweeney/
+    - icon: inbox-fill
+      text: Email
+      url: mailto:marymcsweeney102@gmail.com
 ---
 
-This is a Quarto website.
+Mary McSweeney is a Statistics and Data Science major at the University of California, Los Angeles. Outside of data science, Mary enjoys spending time crocheting and indoor bouldering.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Education
 
-```{r}
-1 + 1
-```
+University of California, Los Angeles | Los Angeles, CA
+B.S. in Statistics and Data Science | Sept 2023 - June 2025
+
+Diablo Valley College | Pleasant Hill, CA
+A.S. in Mathematics, A.S. in Computer Science, A.A. in Economics | Aug 2021 - May 2023
+
+## Experience
+
+On Track Learning | Mathematics Tutor | December 2021 - present

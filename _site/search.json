@@ -1,16 +1,30 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Mary McSweeney",
+    "section": "",
+    "text": "Mary McSweeney is a Statistics and Data Science major at the University of California, Los Angeles. Outside of data science, Mary enjoys spending time crocheting and indoor bouldering."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Mary McSweeney",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA B.S. in Statistics and Data Science | Sept 2023 - June 2025\nDiablo Valley College | Pleasant Hill, CA A.S. in Mathematics, A.S. in Computer Science, A.A. in Economics | Aug 2021 - May 2023"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Mary McSweeney",
+    "section": "Experience",
+    "text": "Experience\nOn Track Learning | Mathematics Tutor | December 2021 - present"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\n3 + 1\n\n[1] 4\n\n\n\n10 + 10\n\n[1] 20"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "personal-website",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   }
 ]
