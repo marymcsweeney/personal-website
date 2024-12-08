@@ -1,19 +1,15 @@
 ---
-title: "About"
+toc: false
 ---
 
-About this site
+## Project 1
 
-```{r}
-1 + 1
-```
+Here is my [project 1]()
 
+## Project 2
 
-```{r}
-3 + 1
-```
+Here is my [project 2]()
 
-```{r}
-10 + 10
-```
+## Project 3
 
+Here is my [project 3]()
