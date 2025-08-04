@@ -2,14 +2,16 @@
 toc: false
 ---
 
-## Project 1
+[Predicting Movie Score](Project.pdf)
 
-Project on [Predicting Movie Score](Project.pdf)
+[Methamphetamine and Dark Chocolate Affect on Memory](stats_101b_project.pdf)
 
-## Project 2
+[Predicting NBA Outcome](Final_Project.pdf)
 
-Project on [Methamphetamine and Dark Chocolate Affect on Memory](stats_101b_project.pdf)
+[Crochet Database and SQL Queries](Mary_McSweeney_Final_Project.pdf)
 
-## Project 3
+[Lyrics Through the Decades Text Mining Analysis](STATS133_Report.pdf)
 
-Project on [Predicting NBA Outcome](Final_Project.pdf)
+[Predicting and Forecasting MLB War](STATS_141XP_Final_Project.pdf)
+
+[Child Opportunity Index](https://educationgap.humspace.ucla.edu/)

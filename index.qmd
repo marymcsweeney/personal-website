@@ -15,7 +15,7 @@ about:
       url: mailto:marymcsweeney102@gmail.com
 ---
 
-Mary McSweeney is a Statistics and Data Science major at the University of California, Los Angeles. Outside of data science, Mary enjoys spending time crocheting and indoor bouldering.
+Mary McSweeney graduated from the University of California, Los Angeles with a Bachelor's Degree in Statistics and Data Science in June 2025. Outside of data science, Mary enjoys spending time crocheting and indoor bouldering.
 
 ## Education
 
