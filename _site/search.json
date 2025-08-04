@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Mary McSweeney",
     "section": "",
-    "text": "Mary McSweeney is a Statistics and Data Science major at the University of California, Los Angeles. Outside of data science, Mary enjoys spending time crocheting and indoor bouldering."
+    "text": "Mary McSweeney graduated from the University of California, Los Angeles with a Bachelor’s Degree in Statistics and Data Science in June 2025. Outside of data science, Mary enjoys spending time crocheting and indoor bouldering."
   },
   {
     "objectID": "index.html#education",
@@ -25,27 +25,6 @@
     "href": "projects.html",
     "title": "Mary McSweeney",
     "section": "",
-    "text": "Project on Predicting Movie Score"
-  },
-  {
-    "objectID": "projects.html#project-1",
-    "href": "projects.html#project-1",
-    "title": "Mary McSweeney",
-    "section": "",
-    "text": "Project on Predicting Movie Score"
-  },
-  {
-    "objectID": "projects.html#project-2",
-    "href": "projects.html#project-2",
-    "title": "Mary McSweeney",
-    "section": "Project 2",
-    "text": "Project 2\nProject on Methamphetamine and Dark Chocolate Affect on Memory"
-  },
-  {
-    "objectID": "projects.html#project-3",
-    "href": "projects.html#project-3",
-    "title": "Mary McSweeney",
-    "section": "Project 3",
-    "text": "Project 3\nProject on Predicting NBA Outcome"
+    "text": "Predicting and Forecasting MLB War\nCrochet Database and SQL Queries\nPredicting NBA Outcome\nPredicting Movie Score\nLyrics Through the Decades Text Mining Analysis\nChild Opportunity Index\nMethamphetamine and Dark Chocolate Affect on Memory"
   }
 ]
