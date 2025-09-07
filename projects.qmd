@@ -2,23 +2,23 @@
 toc: false
 ---
 
-[MLB Pitcher Performance Forecasting](Predicting%20and%20Forecasting%20MLB%20War.pdf)
+[MLB Pitcher Performance Forecasting](Predicting_and_Forecasting_MLB_War.pdf)
 
-[Predicting NBA Game Outcomes](Predicting%NBA%Outcome.pdf)
+[Predicting NBA Game Outcomes](Predicting_NBA_Outcome.pdf)
 
-[Netflix Content Analysis](Analyzing%Netflix%Data%with%Python.pdf)
+[Netflix Content Analysis](Analyzing_Netflix_Data_with_Python.pdf)
 
-[Song Lyrics Text Mining (R)](Lyrics%Through%the%Decades%Text%Mining%Analysis.pdf)
+[Song Lyrics Text Mining (R)](Lyrics_Through_the_Decades_Text_Mining_Analysis.pdf)
 
-[Crochet Database and SQL Queries](Crochet%Database%and%SQL%Queries.pdf)
+[Crochet Database and SQL Queries](Crochet_Database_and_SQL_Queries.pdf)
 
 [Child Opportunity Index Analysis](https://educationgap.humspace.ucla.edu/)
 
-[Factors Affecing Heart Disease Patients](Heart%Disease%Mortality.pdf)
+[Factors Affecing Heart Disease Patients](Heart_Disease_Mortality.pdf)
 
-[Islanders Memory Study](Methamphetamine%and%Dark%Chocolate%Affect%on%Memory.pdf)
+[Islanders Memory Study](Methamphetamine_and_Dark_Chocolate_Affect_on_Memory.pdf)
 
-[Movie Score Prediction Model](Predicting%Movie%Score.pdf)
+[Movie Score Prediction Model](Predicting_Movie_Score.pdf)
 
 
 
