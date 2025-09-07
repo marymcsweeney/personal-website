@@ -2,16 +2,36 @@
 toc: false
 ---
 
-[Predicting and Forecasting MLB War](STATS_141XP_Final_Project.pdf)
+[MLB Pitcher Performance Forecasting](Predicting and Forecasting MLB War.pdf)
 
-[Crochet Database and SQL Queries](Mary_McSweeney_Final_Project.pdf)
+[Predicting NBA Game Outcomes](Predicting NBA Outcome.pdf)
 
-[Predicting NBA Outcome](Final_Project.pdf)
+[Netflix Content Analysis](Analyzing Netflix Data with Python.pdf)
 
-[Predicting Movie Score](Project.pdf)
+[Song Lyrics Text Mining (R)](Lyrics Through the Decades Text Mining Analysis.pdf)
 
-[Lyrics Through the Decades Text Mining Analysis](STATS133_Report.pdf)
+[Crochet Database and SQL Queries](Crochet Database and SQL Queries.pdf)
 
-[Child Opportunity Index](https://educationgap.humspace.ucla.edu/)
+[Child Opportunity Index Analysis](https://educationgap.humspace.ucla.edu/)
 
-[Methamphetamine and Dark Chocolate Affect on Memory](stats_101b_project.pdf)
+[Factors Affecing Heart Disease Patients](Heart Disease Mortality.pdf)
+
+[Islanders Memory Study](Methamphetamine and Dark Chocolate Affect on Memory.pdf)
+
+[Movie Score Prediction Model](Predicting Movie Score.pdf)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
