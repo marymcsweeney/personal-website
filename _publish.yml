@@ -1,4 +1,20 @@
-- source: project
-  netlify:
-    - id: 141bebb7-8cd3-440d-b9b0-33f9e06f6f43
-      url: 'https://marymcsweeney.netlify.app/'
+project:
+  type: website
+
+website:
+  title: "Mary McSweeney"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Projects
+      - href: Resume.pdf
+        text: Resume
+      - href: mailto:marymcsweeney102@gmail.com
+        text: Contact
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css

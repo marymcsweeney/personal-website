@@ -1,37 +1,166 @@
 ---
+title: "Projects"
+page-layout: full
 toc: false
 ---
 
-[MLB Pitcher Performance Forecasting](Predicting_and_Forecasting_MLB_War.pdf)
+This portfolio highlights my data science and analytics projects across multiple domains — from sports forecasting to text mining and database design.  
+Each project demonstrates my ability to clean, analyze, and model complex data using Python, R, SQL, and Tableau to uncover actionable insights and communicate results visually and clearly.
 
-[Predicting NBA Game Outcomes](Predicting_NBA_Outcome.pdf)
+---
 
-[Netflix Content Analysis](Analyzing_Netflix_Data_with_Python.pdf)
+### [MLB Pitcher Performance Forecasting](Predicting_and_Forecasting_MLB_War.pdf)
+**Goal:** Predict MLB pitcher Wins Above Replacement (WAR) using multi-season data.  
+**Highlights:**  
+    - Integrated pitch-by-pitch and game-level datasets across 15 seasons  
+    - Built regression, decision tree, and XGBoost models to predict and forecast WAR  
+    - Delivered feature-importance insights to MLB analysts on key pitcher metrics  
+**Skills:** R, Regression Modeling, XGBoost, Feature Engineering, Forecasting  
 
-[Song Lyrics Text Mining (R)](Lyrics_Through_the_Decades_Text_Mining_Analysis.pdf)
+<details>
+<summary>Preview Report</summary>
 
-[Crochet Database and SQL Queries](Crochet_Database_and_SQL_Queries.pdf)
+<iframe src="Predicting_and_Forecasting_MLB_War.pdf" width="100%" height="420px"></iframe>
 
-[Child Opportunity Index Analysis](https://educationgap.humspace.ucla.edu/)
+</details>
 
-[Factors Affecing Heart Disease Patients](Heart_Disease_Mortality.pdf)
+---
 
-[Islanders Memory Study](Methamphetamine_and_Dark_Chocolate_Affect_on_Memory.pdf)
+### [Netflix Content Analysis](Analyzing_Netflix_Data_with_Python.pdf)
+**Goal:** Explore trends in Netflix’s global content library.  
+**Highlights:**   
+    - Cleaned and standardized 8,800+ titles using pandas and NumPy  
+    - Visualized trends in release years, genre diversity, and content length  
+    - Modeled content type (Movie vs. TV Show) using logistic regression  
+**Skills:** Python, pandas, NumPy, Matplotlib, Seaborn, EDA, Data Visualization  
 
-[Movie Score Prediction Model](Predicting_Movie_Score.pdf)
+<details>
+<summary>Preview Report</summary>
 
+<iframe src="Analyzing_Netflix_Data_with_Python.pdf" width="100%" height="420px"></iframe>
 
+</details>
 
+---
 
+### [Child Opportunity Index Analysis](https://educationgap.humspace.ucla.edu/)
+**Goal:** Visualize educational inequities across California counties.  
+**Highlights:**  
+    - Combined demographic and resource data to assess regional disparities  
+    - Built interactive Tableau dashboards with filters and county-level comparisons  
+    - Highlighted relationships between socioeconomic factors and opportunity levels  
+**Skills:** Tableau, Data Visualization, Dashboard Design, Spatial Analysis  
 
+<details>
+<summary>Preview Report</summary>
 
+<iframe
+  src="https://educationgap.humspace.ucla.edu/"
+  width="100%"
+  height="600px"
+  style="border: 1px solid #ccc; border-radius: 6px;">
+</iframe>
 
+</details>
 
+---
 
+### [Crochet Database and SQL Queries](Crochet_Database_and_SQL_Queries.pdf)
+**Goal:** Build a personal SQL database to organize crochet projects and materials.  
+**Highlights:**  
+    - Designed a normalized relational schema with 6 linked tables  
+    - Wrote advanced SQL queries (joins, CTEs, aggregations, window functions)  
+    - Analyzed designer trends, yarn usage, and project timelines  
+**Skills:** SQL, SQLite, RSQLite, Database Design, Query Optimization  
 
+<details>
+<summary>Preview Report</summary>
 
+<iframe src="Crochet_Database_and_SQL_Queries.pdf" width="100%" height="420px"></iframe>
 
+</details>
 
+---
 
+### [Predicting NBA Game Outcomes](Predicting_NBA_Outcome.pdf)
+**Goal:** Predict NBA game winners using statistical and contextual features.  
+**Highlights:**  
+    - Engineered features for home advantage, win streaks, and opponent performance  
+    - Compared classifiers (Logistic Regression, SVM, Random Forest, KNN)  
+    - Achieved 64% mean accuracy with Logistic Regression  
+**Skills:** Python, scikit-learn, Feature Engineering, Model Evaluation  
 
+<details>
+<summary>Preview Report</summary>
 
+<iframe src="Predicting_NBA_Outcome.pdf" width="100%" height="420px"></iframe>
+
+</details>
+
+---
+
+### [Song Lyrics Text Mining](Lyrics_Through_the_Decades_Text_Mining_Analysis.pdf)
+**Goal:** Analyze lyrical and emotional changes in Billboard Top 100 songs from the 1960s–2010s.  
+**Highlights:**  
+    - Cleaned and tokenized 6,500 songs using tidytext  
+    - Performed sentiment analysis and topic modeling (LDA) by decade  
+    - Built a Random Forest model to predict artist gender from lyrics  
+**Skills:** R, tidytext, Sentiment Analysis, Topic Modeling, Data Cleaning  
+
+<details>
+<summary>Preview Report</summary>
+
+<iframe src="Lyrics_Through_the_Decades_Text_Mining_Analysis.pdf" width="100%" height="420px"></iframe>
+
+</details>
+
+---
+
+### [Heart Disease Mortality Analysis](Heart_Disease_Mortality.pdf)
+**Goal:** Identify key factors predicting mortality in heart disease patients.  
+**Highlights:**  
+    - Conducted hypothesis tests and logistic regression on clinical data  
+    - Found age, gender, cholesterol, and diabetes status as significant predictors  
+    - Visualized relationships and tested for multicollinearity  
+**Skills:** R, Hypothesis Testing, Logistic Regression, EDA  
+
+<details>
+<summary>Preview Report</summary>
+
+<iframe src="Heart_Disease_Mortality.pdf" width="100%" height="420px"></iframe>
+
+</details>
+
+---
+
+### [Movie Score Prediction Model](Predicting_Movie_Score.pdf)
+**Goal:** Predict IMDb audience ratings based on movie characteristics.  
+**Highlights:**  
+    - Modeled relationships between budget, gross revenue, and runtime  
+    - Applied Box–Cox transformations to meet regression assumptions  
+    - Evaluated model fit using residual and leverage diagnostics  
+**Skills:** R, Linear Regression, Model Selection, Box–Cox Transformation  
+
+<details>
+<summary>Preview Report</summary>
+
+<iframe src="Predicting_Movie_Score.pdf" width="100%" height="420px"></iframe>
+
+</details>
+
+---
+
+### [Islanders Memory Study](Methamphetamine_and_Dark_Chocolate_Affect_on_Memory.pdf)
+**Goal:** Examine how dark chocolate and methamphetamine interact to affect memory.  
+**Highlights:**  
+    - Designed a 2×2 factorial experiment with randomized groups  
+    - Conducted two-way ANOVA and Tukey HSD post-hoc tests  
+    - Found significant interaction effects between chocolate and methamphetamine  
+**Skills:** R, Experimental Design, Two-Way ANOVA, Statistical Testing  
+
+<details>
+<summary>Preview Report</summary>
+
+<iframe src="Methamphetamine_and_Dark_Chocolate_Affect_on_Memory.pdf" width="100%" height="420px"></iframe>
+
+</details>

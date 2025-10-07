@@ -15,18 +15,28 @@ about:
       url: mailto:marymcsweeney102@gmail.com
 ---
 
-Mary McSweeney graduated from the University of California, Los Angeles with a Bachelor's Degree in Statistics and Data Science in June 2025. Outside of data science, Mary enjoys spending time crocheting and indoor bouldering.
+I’m a data analyst passionate about transforming complex datasets into clear, actionable insights. I recently graduated from UCLA with a Bachelor's Degree in Statistics & Data Science and a 3.90 GPA. Outside of solving analytical problems, I enjoy spending time crocheting and indoor bouldering.
+
+[View My Resume](Resume.pdf) 
 
 ## Education
+ 
+**B.S. Statistics & Data Science** | June 2025  
+_University of California, Los Angeles (UCLA)_  
 
-University of California, Los Angeles | Los Angeles, CA
-B.S. in Statistics and Data Science | Sept 2023 - June 2025
+## Experience 
 
-Diablo Valley College | Pleasant Hill, CA
-A.S. in Mathematics, A.S. in Computer Science, A.A. in Economics | Aug 2021 - May 2023
+**Mathematics Tutor** | Dec 2021 – Present  
+_On Track Learning – Alamo, CA_  
 
-## Experience
+**President** | May 2024 – June 2025  
+_Chi Alpha Psi Co-Ed Transfer Fraternity, UCLA – Los Angeles, CA_  
 
-[Resume](Resume.pdf)
+**Social Media Manager** | Oct 2023 – June 2024  
+_Student Transfer Outreach & Mentor Program, UCLA – Los Angeles, CA_  
 
-On Track Learning | Mathematics Tutor | December 2021 - present
+## Skills
+
+- **Languages:** Python, SQL, R, C++  
+- **Tools:** Tableau, Power BI, Excel (PivotTables, VLOOKUP, Functions)  
+- **Methods:** Regression, Logistic Regression, Decision Trees, Random Forest, XGBoost, Experimental Design, Hypothesis Testing, Exploratory Data Analysis (EDA), Data Cleaning, Data Entry

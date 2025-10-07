@@ -4,27 +4,34 @@
     "href": "index.html",
     "title": "Mary McSweeney",
     "section": "",
-    "text": "Mary McSweeney graduated from the University of California, Los Angeles with a Bachelor’s Degree in Statistics and Data Science in June 2025. Outside of data science, Mary enjoys spending time crocheting and indoor bouldering."
+    "text": "I’m a data analyst passionate about transforming complex datasets into clear, actionable insights. I recently graduated from UCLA with a Bachelor’s Degree in Statistics & Data Science and a 3.90 GPA. Outside of solving analytical problems, I enjoy spending time crocheting and indoor bouldering.\nView My Resume"
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Mary McSweeney",
     "section": "Education",
-    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA B.S. in Statistics and Data Science | Sept 2023 - June 2025\nDiablo Valley College | Pleasant Hill, CA A.S. in Mathematics, A.S. in Computer Science, A.A. in Economics | Aug 2021 - May 2023"
+    "text": "Education\nB.S. Statistics & Data Science | June 2025\nUniversity of California, Los Angeles (UCLA)"
   },
   {
     "objectID": "index.html#experience",
     "href": "index.html#experience",
     "title": "Mary McSweeney",
     "section": "Experience",
-    "text": "Experience\nResume\nOn Track Learning | Mathematics Tutor | December 2021 - present"
+    "text": "Experience\nMathematics Tutor | Dec 2021 – Present\nOn Track Learning – Alamo, CA\nPresident | May 2024 – June 2025\nChi Alpha Psi Co-Ed Transfer Fraternity, UCLA – Los Angeles, CA\nSocial Media Manager | Oct 2023 – June 2024\nStudent Transfer Outreach & Mentor Program, UCLA – Los Angeles, CA"
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Mary McSweeney",
+    "section": "Skills",
+    "text": "Skills\n\nLanguages: Python, SQL, R, C++\n\nTools: Tableau, Power BI, Excel (PivotTables, VLOOKUP, Functions)\n\nMethods: Regression, Logistic Regression, Decision Trees, Random Forest, XGBoost, Experimental Design, Hypothesis Testing, Exploratory Data Analysis (EDA), Data Cleaning, Data Entry"
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "Mary McSweeney",
+    "title": "Projects",
     "section": "",
-    "text": "MLB Pitcher Performance Forecasting\nPredicting NBA Game Outcomes\nNetflix Content Analysis\nSong Lyrics Text Mining (R)\nCrochet Database and SQL Queries\nChild Opportunity Index Analysis\nFactors Affecing Heart Disease Patients\nIslanders Memory Study\nMovie Score Prediction Model"
+    "text": "This portfolio highlights my data science and analytics projects across multiple domains — from sports forecasting to text mining and database design.\nEach project demonstrates my ability to clean, analyze, and model complex data using Python, R, SQL, and Tableau to uncover actionable insights and communicate results visually and clearly.\n\n\nMLB Pitcher Performance Forecasting\nGoal: Predict MLB pitcher Wins Above Replacement (WAR) using multi-season data.\nHighlights:\n- Integrated pitch-by-pitch and game-level datasets across 15 seasons\n- Built regression, decision tree, and XGBoost models to predict and forecast WAR\n- Delivered feature-importance insights to MLB analysts on key pitcher metrics\nSkills: R, Regression Modeling, XGBoost, Feature Engineering, Forecasting\n\n\nPreview Report\n\n\n\n\n\n\n\nNetflix Content Analysis\nGoal: Explore trends in Netflix’s global content library.\nHighlights:\n- Cleaned and standardized 8,800+ titles using pandas and NumPy\n- Visualized trends in release years, genre diversity, and content length\n- Modeled content type (Movie vs. TV Show) using logistic regression\nSkills: Python, pandas, NumPy, Matplotlib, Seaborn, EDA, Data Visualization\n\n\nPreview Report\n\n\n\n\n\n\n\nChild Opportunity Index Analysis\nGoal: Visualize educational inequities across California counties.\nHighlights:\n- Combined demographic and resource data to assess regional disparities\n- Built interactive Tableau dashboards with filters and county-level comparisons\n- Highlighted relationships between socioeconomic factors and opportunity levels\nSkills: Tableau, Data Visualization, Dashboard Design, Spatial Analysis\n\n\nPreview Report\n\n\n\n\n\n\n\nCrochet Database and SQL Queries\nGoal: Build a personal SQL database to organize crochet projects and materials.\nHighlights:\n- Designed a normalized relational schema with 6 linked tables\n- Wrote advanced SQL queries (joins, CTEs, aggregations, window functions)\n- Analyzed designer trends, yarn usage, and project timelines\nSkills: SQL, SQLite, RSQLite, Database Design, Query Optimization\n\n\nPreview Report\n\n\n\n\n\n\n\nPredicting NBA Game Outcomes\nGoal: Predict NBA game winners using statistical and contextual features.\nHighlights:\n- Engineered features for home advantage, win streaks, and opponent performance\n- Compared classifiers (Logistic Regression, SVM, Random Forest, KNN)\n- Achieved 64% mean accuracy with Logistic Regression\nSkills: Python, scikit-learn, Feature Engineering, Model Evaluation\n\n\nPreview Report\n\n\n\n\n\n\n\nSong Lyrics Text Mining\nGoal: Analyze lyrical and emotional changes in Billboard Top 100 songs from the 1960s–2010s.\nHighlights:\n- Cleaned and tokenized 6,500 songs using tidytext\n- Performed sentiment analysis and topic modeling (LDA) by decade\n- Built a Random Forest model to predict artist gender from lyrics\nSkills: R, tidytext, Sentiment Analysis, Topic Modeling, Data Cleaning\n\n\nPreview Report\n\n\n\n\n\n\n\nHeart Disease Mortality Analysis\nGoal: Identify key factors predicting mortality in heart disease patients.\nHighlights:\n- Conducted hypothesis tests and logistic regression on clinical data\n- Found age, gender, cholesterol, and diabetes status as significant predictors\n- Visualized relationships and tested for multicollinearity\nSkills: R, Hypothesis Testing, Logistic Regression, EDA\n\n\nPreview Report\n\n\n\n\n\n\n\nMovie Score Prediction Model\nGoal: Predict IMDb audience ratings based on movie characteristics.\nHighlights:\n- Modeled relationships between budget, gross revenue, and runtime\n- Applied Box–Cox transformations to meet regression assumptions\n- Evaluated model fit using residual and leverage diagnostics\nSkills: R, Linear Regression, Model Selection, Box–Cox Transformation\n\n\nPreview Report\n\n\n\n\n\n\n\nIslanders Memory Study\nGoal: Examine how dark chocolate and methamphetamine interact to affect memory.\nHighlights:\n- Designed a 2×2 factorial experiment with randomized groups\n- Conducted two-way ANOVA and Tukey HSD post-hoc tests\n- Found significant interaction effects between chocolate and methamphetamine\nSkills: R, Experimental Design, Two-Way ANOVA, Statistical Testing\n\n\nPreview Report"
   }
 ]
